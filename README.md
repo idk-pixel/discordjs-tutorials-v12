@@ -1,2 +1,4 @@
 # discordjs-tutorials-v12
-Discord.JS
+Discord.JS tutorials!
+
+- WhoAboutYT
